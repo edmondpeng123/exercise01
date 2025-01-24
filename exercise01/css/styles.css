@@ -1,0 +1,191 @@
+doto-<uniquifier> {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "ROND" 0;
+  }
+
+.nav {
+    font-weight: 800;
+font-family: "Doto", serif;
+display: flex;
+justify-content: right;
+align-items: end;
+height: 4.4em;
+width: 100%;
+
+
+
+
+
+
+}
+
+.home {
+    margin: 0.5em;
+    padding: 1em;
+    font-size: 1em;
+    border: solid 0.15em black;
+transition: background-color 1s ease-out 50ms
+
+    
+}
+
+
+.first {
+    margin: 0.5em;
+padding: 1em;
+border: solid 0.15em black;
+transition: background-color 1s ease-out 50ms
+}
+
+.second {
+    margin: 0.5em;
+    padding: 1em;
+    border: solid 0.15em black;
+    transition: background-color 1s ease-out 50ms
+}
+
+.third {
+    margin: 0.5em;
+    padding: 1em;
+    border: solid 0.15em black;
+    transition: background-color 1s ease-out 50ms
+}
+
+.fourth {
+    margin: 0.5em;
+    padding: 1em;
+    border: solid 0.15em black;
+    transition: background-color 1s ease-out 50ms
+}
+
+.fifth {
+    margin: 0.5em;
+    padding: 1em;
+    border: solid 0.15em black;
+    transition: background-color 1s ease-out 50ms
+}
+
+body {
+    font-family: "Doto", serif;
+font-weight: 800;
+}
+
+a:hover {
+    background-color: blue;
+    border-radius: 50%;
+}
+
+
+.parent {
+    display: flex;
+    
+}
+
+
+.about {
+    font-size: 0.8em;
+border-top: solid 0.15em black;
+display: flex;
+padding: 1.15em;
+margin: 1.15em;
+height: 600px;
+width: 800em;
+}
+
+.title0 {
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 15%;
+
+}
+
+.content0 {
+    border-left: solid 0.15em black;
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 30%;
+
+}
+
+.title1 {
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 15%;
+    position: relative;
+
+}
+
+.content1 {
+    border-left: solid 0.15em black;
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 30%;
+
+}
+
+.title2 {
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 15%;
+
+}
+
+.content2 {
+    border-left: solid 0.15em black;
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 30%;
+}
+
+.title3 {
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 15%;
+
+}
+
+.content3 {
+    border-left: solid 0.15em black;
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 30%;
+}
+
+.title4 {
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 15%;
+
+}
+
+.content4 {
+    border-left: solid 0.15em black;
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 30%;
+}
+
+.title5 {
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 15%;
+
+}
+
+.content5 {
+    border-left: solid 0.15em black;
+    padding: 1.15em;
+    margin: 1.15em;
+    width: 30%;
+}
+
+.img1 {
+position: relative;
+width: 100%;
+height: 100%;
+
+}
